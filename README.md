@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayan</h1>
+<h1 align="center">Hey! I'm Ayan</h1>
 <h3 align="center">AI&ML Dev</h3>
 
 - 🔭 I’m currently working on [TrackVest](https://trackvest.xyz/)
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayan jhunjhunwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan jhunjhunwala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayanjhunjhunwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan jhunjhunwala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
