@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TrackVest](https://trackvest.xyz/)
 
-- 🌱 I’m currently learning **CUDA, JAX, LangGraph**
+- 🌱 I’m currently learning **CUDA, LangChain + LangGraph**
 
 - 👨‍💻 All of my projects are available at [https://ayanj.com/](https://ayanj.com/)
 
