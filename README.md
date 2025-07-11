@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Ayan</h1>
 <h3 align="center">AI&ML Dev</h3>
 
-- 🔭 I’m currently working on [TrackVest](https://trackvest.xyz/) and something bigger in stealth...
+- 🔭 I’m currently working on pivoting [TrackVest](https://trackvest.xyz/) to the best EDA platform
 
 - 🌱 I’m currently learning **CUDA, LangChain + LangGraph**
 
