@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Ayan</h1>
-<h3 align="center">AI&ML Dev</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on pivoting [TrackVest](https://trackvest.xyz/) to the best EDA platform
 
