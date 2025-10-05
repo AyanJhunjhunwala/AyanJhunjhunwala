@@ -1,11 +1,11 @@
 <h1 align="center">Hey! I'm Ayan</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on pivoting [TrackVest](https://trackvest.xyz/) to the best EDA platform
+- 🔭 I’m currently working on a bunch of things, check my previous project out (https://trackvest.xyz/)
 
-- 🌱 I’m currently learning **CUDA, LangChain + LangGraph**
+- 🌱 I’m currently learning **Go & Some DevOps stuff**
 
-- 👨‍💻 All of my projects are available at [https://ayanj.com/](https://ayanj.com/)
+- 👨‍💻 My favorite projects are available at [https://ayanj.com/](https://ayanj.com/)
 
 - 📫 How to reach me **ajhunjh1@uci.edu**
 
