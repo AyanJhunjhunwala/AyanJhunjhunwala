@@ -1,5 +1,4 @@
-<h1 align="center">Hey! I'm Ayan</h1>
-<h3 align="center"></h3>
+
 
 - [https://ayanj.com/](https://ayanj.com/)
 
