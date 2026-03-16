@@ -1,13 +1,7 @@
 <h1 align="center">Hey! I'm Ayan</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on a bunch of things, check my previous project out (https://trackvest.xyz/)
-
-- 🌱 I’m currently learning **Go & Some DevOps stuff**
-
-- 👨‍💻 My favorite projects are available at [https://ayanj.com/](https://ayanj.com/)
-
-- 📫 How to reach me **ajhunjh1@uci.edu**
+- [https://ayanj.com/](https://ayanj.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
