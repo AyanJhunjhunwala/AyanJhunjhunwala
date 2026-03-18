@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-**CS + Statistics @ UC Irvine · ML Engineer · SWE**
+**CS + Statistics @ UC Irvine · SWE + ML Eng**
 
 <a href="https://ayanj.com/"><img src="https://img.shields.io/badge/⚡_ayanj.com-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/ayanjhunjhunwala"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
